@@ -1,3 +1,4 @@
+<p>
 :root {
 	--border-radius: 5px;
 	--font-primary: var(--font);
@@ -1378,3 +1379,4 @@
   #app-mount .uploadModal-2ifh8j .slateTextArea-1Mkdgw {
 	padding-left: 15px;
   }
+</p>
